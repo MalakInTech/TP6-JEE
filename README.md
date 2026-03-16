@@ -144,8 +144,11 @@ http://localhost:8082
 # 📸 Screenshots de l’application
 
 <img width="494" height="231" alt="Capture d&#39;écran 2026-03-16 232121" src="https://github.com/user-attachments/assets/4985cb07-8831-473c-8306-456f5d4296b1" />
+
 <img width="663" height="140" alt="Capture d&#39;écran 2026-03-16 232130" src="https://github.com/user-attachments/assets/55223546-ecb7-4605-b7d2-e67e075d6e50" />
+
 <img width="453" height="321" alt="Capture d&#39;écran 2026-03-16 232156" src="https://github.com/user-attachments/assets/3c8526ae-0900-4e35-b1dd-760d512f8916" />
+
 <img width="394" height="306" alt="Capture d&#39;écran 2026-03-16 232226" src="https://github.com/user-attachments/assets/8bb7a525-2ae3-4e7e-843a-d15205f20d73" />
 
 ---
